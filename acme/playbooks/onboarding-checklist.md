@@ -14,3 +14,8 @@
 - Schedule check-ins with manager.
 - Review role goals and success metrics.
 - Capture early feedback and questions.
+
+## First 60 Days
+- Determine next steps
+- Talk to manager again
+- Have a coffee
